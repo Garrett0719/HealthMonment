@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/COMP5216/HealthProject(final)/HealthProject(final)/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3523148148148148" />
+        <entry key="..\:/COMP5216/HealthProject(final)/HealthProject(final)/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3523148148148148" />
+        <entry key="..\:/COMP5216/HealthProject(final)/HealthProject(final)/app/src/main/res/layout/activity_main.xml" value="0.33796296296296297" />
+        <entry key="..\:/COMP5216/HealthProject(final)/HealthProject(final)/app/src/main/res/layout/activity_setting_time.xml" value="0.33796296296296297" />
+        <entry key="..\:/COMP5216/HealthProject(final)/HealthProject(final)/app/src/main/res/layout/activity_signup.xml" value="0.33796296296296297" />
+        <entry key="..\:/COMP5216/HealthProject(final)/HealthProject(final)/app/src/main/res/layout/content_main.xml" value="0.33796296296296297" />
+        <entry key="..\:/COMP5216/HealthProject(final)/HealthProject(final)/app/src/main/res/layout/first.xml" value="0.33796296296296297" />
+        <entry key="..\:/COMP5216/HealthProject(final)/HealthProject(final)/app/src/main/res/layout/sport_view.xml" value="0.33796296296296297" />
+        <entry key="..\:/COMP5216/HealthProject/app/src/main/res/drawable/process2.xml" value="0.5697916666666667" />
+        <entry key="..\:/COMP5216/HealthProject/app/src/main/res/layout/activity_intake_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/HealthProject/app/src/main/res/layout/activity_main.xml" value="0.4569746376811594" />
+        <entry key="..\:/COMP5216/HealthProject/app/src/main/res/layout/activity_setting_time.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/HealthProject/app/src/main/res/layout/activity_signup.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/HealthProject/app/src/main/res/layout/content_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/HealthProject/app/src/main/res/layout/first.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/HealthProject/app/src/main/res/layout/sport_view.xml" value="0.45063405797101447" />
+        <entry key="..\:/COMP5216/HealthProject/app/src/main/res/menu/menu_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/HealthyMoments/HealthyMoments/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19444444444444445" />
+        <entry key="..\:/COMP5216/HealthyMoments/HealthyMoments/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19722222222222222" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/activity_energy_requirements_calculator.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/activity_intake_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/activity_line_graph.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/activity_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/activity_setting_time.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/activity_signup.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/content_main.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/first.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/food_item.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/food_item1.xml" value="0.49212962962962964" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/food_view.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/gridviewitem.xml" value="0.5536458333333333" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/gridviewitem1.xml" value="0.49212962962962964" />
+        <entry key="..\:/COMP5216/my/HealthProject/HealthProject/app/src/main/res/layout/sport_view.xml" value="0.49212962962962964" />
+        <entry key="..\:/HealthProject/app/src/main/res/drawable/button_shape.xml" value="0.30925925925925923" />
+        <entry key="..\:/HealthProject/app/src/main/res/drawable/circle.xml" value="0.3260416666666667" />
+        <entry key="..\:/HealthProject/app/src/main/res/drawable/color_cursor.xml" value="0.30925925925925923" />
+        <entry key="..\:/HealthProject/app/src/main/res/drawable/shape.xml" value="0.3260416666666667" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/activity_energy_requirements_calculator.xml" value="0.264" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/activity_intake_main.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/activity_line_graph.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/activity_main.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/activity_setting_time.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/activity_signup.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/content_main.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/first.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/food_item.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/food_item1.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/food_view.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/gridviewitem.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/gridviewitem1.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/layout/sport_view.xml" value="0.30572916666666666" />
+        <entry key="..\:/HealthProject/app/src/main/res/menu/menu_main.xml" value="0.30572916666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/drawable/button_shape.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/drawable/seekbar_bg.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/drawable/shape.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/drawable/shape2.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/activity_energy_requirements_calculator.xml" value="0.264" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/activity_intake_main.xml" value="0.264" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/activity_line_graph.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/activity_setting_time.xml" value="0.264" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/activity_signup.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/content_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/first.xml" value="0.264" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/food_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/food_item1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/food_view.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/gridviewitem.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/gridviewitem1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/layout/sport_view.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Administrator/Desktop/HealthProject/app/src/main/res/menu/menu_main.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

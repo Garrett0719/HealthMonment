@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sportlist_background"
+    android:orientation="vertical">
+
+   <TextView
+       android:id="@+id/mydate"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginLeft="10dp"
+       android:layout_marginTop="10dp"
+       android:text=""
+       android:textColor="#5B3D85"
+       android:textSize="20dp"
+       android:textStyle="bold" />
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal">
+
+      <ImageView
+          android:id="@+id/imageView23"
+          android:layout_width="100dp"
+          android:layout_height="70dp"
+          android:layout_weight="1"
+          app:srcCompat="@drawable/sportlist" />
+
+      <TextView
+          android:id="@+id/tv1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="10dp"
+          android:layout_marginTop="10dp"
+          android:text="Sport List"
+          android:textColor="#5B3D85"
+          android:textSize="24sp"
+          android:textStyle="bold" />
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:text="(kcal/10min)"
+          android:textColor="#5B3D85"
+          android:textSize="24sp"
+          android:textStyle="bold"></TextView>
+   </LinearLayout>
+
+   <GridView
+       android:id="@+id/gd"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="20dp"
+       android:numColumns="1" />
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="20dp"
+       android:gravity="center"
+       android:orientation="vertical">
+
+      <Button
+          android:id="@+id/bt_submit"
+          android:layout_width="100dp"
+          android:layout_height="30dp"
+          android:layout_marginTop="20dp"
+          android:background="@drawable/button_shape"
+          android:padding="0dp"
+          android:text="Submit"
+          android:textColor="#FFFFFF"
+          android:textSize="15dp" />
+   </LinearLayout>
+
+</LinearLayout>

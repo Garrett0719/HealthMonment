@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/foodlist_background"
+    android:orientation="vertical">
+
+   <TextView
+       android:id="@+id/mydate"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginLeft="10dp"
+       android:layout_marginTop="10dp"
+       android:text=""
+       android:textColor="#5B3D85"
+       android:textSize="20dp"
+       android:textStyle="bold" />
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal">
+
+      <TextView
+          android:id="@+id/tv1"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:gravity="center"
+          android:text="Food List"
+          android:textColor="#5B3D85"
+          android:textSize="34sp"
+          android:textStyle="bold" />
+   </LinearLayout>
+
+   <GridView
+       android:id="@+id/gd"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:numColumns="1" />
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="20dp"
+       android:gravity="center"
+       android:orientation="horizontal">
+
+
+      <Button
+          android:id="@+id/bt_submit"
+          android:layout_width="80dp"
+          android:layout_height="40dp"
+          android:layout_marginLeft="20dp"
+          android:background="@drawable/button_shape"
+          android:padding="0dp"
+          android:text="Submit"
+          android:textColor="#FFFFFF"
+          android:textSize="15dp" />
+
+   </LinearLayout>
+</LinearLayout>

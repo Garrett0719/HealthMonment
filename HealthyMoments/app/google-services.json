@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491921012961",
+    "project_id": "healthproject-92bb2",
+    "storage_bucket": "healthproject-92bb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491921012961:android:8fec6f9369e4b8c5565fa0",
+        "android_client_info": {
+          "package_name": "comp5216.sydney.edu.au.healthproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491921012961-k79ompujcuqqngfie1049kkkha1dnbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARUrxSMt8px3tELbqwkwRN5XeQDFoiTGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491921012961-k79ompujcuqqngfie1049kkkha1dnbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

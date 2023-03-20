@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Physical_Activity_Level">
+        <item>-Select-</item>
+        <item>1.2 - bed bound, chair bound</item>
+        <item>1.4 - officer worker</item>
+        <item>1.6 - students, lab assistants, drivers</item>
+        <item>1.8 - waiters. shop assistant. teacher</item>
+        <item>2.0 - trades person, or high performance athletes</item>
+        <item>2.2 - with your occupation with additional strenuous exercise</item>
+    </string-array>
+</resources>
